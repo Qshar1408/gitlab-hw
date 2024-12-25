@@ -17,3 +17,4 @@
    11. Ещё раз выполните команды git diff и git diff --staged.
    12. Теперь можно сделать коммит git commit -m 'First commit'.
    13. Сделайте git push origin master.
+[Ссылка на commintю Задание № 1](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
