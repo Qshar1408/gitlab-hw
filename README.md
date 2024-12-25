@@ -19,4 +19,4 @@
    13. Сделайте git push origin master.
 
 
-### [Ссылка на commintю Задание № 1](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
+### [Ссылка на commit Задание № 1](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
