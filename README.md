@@ -19,4 +19,4 @@
    13. Сделайте git push origin master.
 
 
-### [Ссылка на коммит. Задание № 1](https://github.com/Qshar1408/gitlab-hw/commit/e068540477b74b58e324d1e625279d4011cec736)
+### [Ссылка на коммит. Задание № 1](https://github.com/Qshar1408/gitlab-hw/commit/0759466f8d60f12ff0ae72cd5083f5d225e47c19)
